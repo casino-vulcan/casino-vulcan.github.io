@@ -1,3 +1,4 @@
 User-agent: *
 Allow: *
 Sitemap: https://casino-vulcan.github.io/sitemap.xml
+Host: casino-vulcan.github.io
